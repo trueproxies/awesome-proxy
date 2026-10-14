@@ -103,7 +103,7 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 
 > Residential proxy networks route traffic through real residential IPs rather than datacenter IPs — useful for scraping, ad verification, and geo-targeted access.
 
-- [TrueProxies](https://trueproxies.com) - Residential and datacenter proxies with 15M+ residential IPs; HTTP, HTTPS, and SOCKS5; country targeting on Unlimited plans.
+- [TrueProxies](https://trueproxies.com) - Residential and datacenter proxies for scraping, data collection and automation, with country targeting, rotating and sticky sessions, and HTTP/SOCKS5 support.
 
 ## HTTP/HTTPS Proxy (HTTP tunnel)
 
